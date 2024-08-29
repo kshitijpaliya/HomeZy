@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import "../../src/App.css";
-import { useState } from "react";
+// import { useState } from "react";
 import { BiMenuAltRight } from "react-icons/bi";
 
 function Header() {
