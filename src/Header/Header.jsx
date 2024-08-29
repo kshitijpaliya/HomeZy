@@ -11,10 +11,10 @@ function Header() {
         <img src="/logo4.png" alt="Logo" width={150}/>
 
         <div className="flexCenter h-menu">
-          <a href="">Residencies</a>
-          <a href="">Our Value</a>
-          <a href="">Contact Us</a>
-          <a href="">Get Started</a>
+          <a href="#">Residencies</a>
+          <a href="#">Our Value</a>
+          <a href="#">Contact Us</a>
+          <a href="#">Get Started</a>
           <button>
             <a href="">Contact</a>
           </button>
