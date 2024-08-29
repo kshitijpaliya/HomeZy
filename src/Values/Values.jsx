@@ -99,7 +99,7 @@ import "react-accessible-accordion/dist/fancy-example.css";
 import "./Values.css";
 import { MdOutlineArrowDropDown } from "react-icons/md";
 import data from "../../src/utils/accordian.jsx";
-import { useState } from "react";
+// import { useState } from "react";
 
 function Values() {
   return (
